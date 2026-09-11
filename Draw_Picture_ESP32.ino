@@ -40,7 +40,7 @@ const char* mouseFile = "/Images/Mouse.bin";
 const char* earthFile = "/Images/Earth.bin";
 const char* waveFile = "/Images/Waves.bin";
 const char* rocketFile = "/Images/Rocket.bin";
-const char* carpetFile = "/Images/Carpet.bin";
+const char* carpetFile = "/Images/Carpet.bin"; //matches to small_pixel_colorful.h
 
 void setup() {
 
